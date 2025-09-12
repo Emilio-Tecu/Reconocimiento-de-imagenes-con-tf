@@ -1,0 +1,16 @@
+{
+    "name": "TensorFlow Dev Environment",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "Reconocimiento_MNIST",
+    "workspaceFolder": "/workspace",
+    "remoteUser": "root",
+    "postCreateCommand": "bash -c 'pip install ipykernel jupyter && python -m ipykernel install --user --name=tensorflow_env --display-name=\"Python (TensorFlow)\"'",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    }
+}

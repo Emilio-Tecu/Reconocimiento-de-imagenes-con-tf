@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+    Reconocimiento_MNIST:
+        image: tensorflow/tensorflow:latest
+        command: "tail -f /dev/null"
+        volumes:
+            - .:/workspace
+        environment:
+            - PYTHONPATH=/workspace
+        stdin_open: true
+        tty: true
