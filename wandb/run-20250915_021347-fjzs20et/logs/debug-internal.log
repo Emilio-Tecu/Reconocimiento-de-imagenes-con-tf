@@ -1,0 +1,6 @@
+{"time":"2025-09-15T02:13:48.97466268Z","level":"INFO","msg":"stream: starting","core version":"0.21.4"}
+{"time":"2025-09-15T02:13:49.239334242Z","level":"INFO","msg":"stream: created new stream","id":"fjzs20et"}
+{"time":"2025-09-15T02:13:49.23978057Z","level":"INFO","msg":"stream: started","id":"fjzs20et"}
+{"time":"2025-09-15T02:13:49.239990708Z","level":"INFO","msg":"sender: started","stream_id":"fjzs20et"}
+{"time":"2025-09-15T02:13:49.239838433Z","level":"INFO","msg":"writer: started","stream_id":"fjzs20et"}
+{"time":"2025-09-15T02:13:49.240405014Z","level":"INFO","msg":"handler: started","stream_id":"fjzs20et"}

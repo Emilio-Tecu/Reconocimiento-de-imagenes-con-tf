@@ -4,3 +4,9 @@
 {"time":"2025-09-15T02:09:07.000846779Z","level":"INFO","msg":"writer: started","stream_id":"kwemu4gv"}
 {"time":"2025-09-15T02:09:07.000975119Z","level":"INFO","msg":"handler: started","stream_id":"kwemu4gv"}
 {"time":"2025-09-15T02:09:07.001631816Z","level":"INFO","msg":"stream: started","id":"kwemu4gv"}
+{"time":"2025-09-15T02:13:48.008992576Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.030416957}],"total_operations":1}}
+{"time":"2025-09-15T02:13:48.532034234Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-15T02:13:48.914146121Z","level":"INFO","msg":"stream: closing","id":"kwemu4gv"}
+{"time":"2025-09-15T02:13:48.915100497Z","level":"INFO","msg":"handler: closed","stream_id":"kwemu4gv"}
+{"time":"2025-09-15T02:13:48.916987399Z","level":"INFO","msg":"sender: closed","stream_id":"kwemu4gv"}
+{"time":"2025-09-15T02:13:48.917464186Z","level":"INFO","msg":"stream: closed","id":"kwemu4gv"}
