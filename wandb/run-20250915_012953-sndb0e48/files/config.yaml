@@ -1,0 +1,56 @@
+_wandb:
+    value:
+        cli_version: 0.21.4
+        e:
+            jdcl9b1kn74wisgric5rh1xk4ui5i43w:
+                codePath: Red_Reconocimiento_MNIST.ipynb
+                codePathLocal: Red_Reconocimiento_MNIST.ipynb
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "1081101176832"
+                        used: "7343206400"
+                email: emilio.sotote@alumno.buap.mx
+                executable: /usr/bin/python
+                host: a9ae2b39e085
+                memory:
+                    total: "2911084544"
+                os: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.35
+                program: /workspace/Red_Reconocimiento_MNIST.ipynb
+                python: CPython 3.11.13
+                root: /workspace
+                startedAt: "2025-09-15T01:29:53.146962Z"
+                writerId: jdcl9b1kn74wisgric5rh1xk4ui5i43w
+        m: []
+        python_version: 3.11.13
+        t:
+            "1":
+                - 2
+                - 3
+            "2":
+                - 2
+                - 3
+            "3":
+                - 2
+                - 3
+                - 8
+                - 13
+                - 16
+                - 62
+            "4": 3.11.13
+            "5": 0.21.4
+            "8":
+                - 1
+            "10":
+                - 17
+            "12": 0.21.4
+            "13": linux-x86_64
+batch_size:
+    value: 256
+epochs:
+    value: 8
+learning_rate:
+    value: 0.005
+optimizer:
+    value: adam

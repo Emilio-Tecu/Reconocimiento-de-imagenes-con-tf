@@ -1,0 +1,15 @@
+{"time":"2025-09-15T01:10:53.274185377Z","level":"INFO","msg":"stream: starting","core version":"0.21.4"}
+{"time":"2025-09-15T01:10:53.644377357Z","level":"INFO","msg":"stream: created new stream","id":"1beyn5fg"}
+{"time":"2025-09-15T01:10:53.644858964Z","level":"INFO","msg":"stream: started","id":"1beyn5fg"}
+{"time":"2025-09-15T01:10:53.644969769Z","level":"INFO","msg":"sender: started","stream_id":"1beyn5fg"}
+{"time":"2025-09-15T01:10:53.645101476Z","level":"INFO","msg":"handler: started","stream_id":"1beyn5fg"}
+{"time":"2025-09-15T01:10:53.644933568Z","level":"INFO","msg":"writer: started","stream_id":"1beyn5fg"}
+{"time":"2025-09-15T01:14:34.592321645Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/emilio-/Reconocimiento%20MNIST/1beyn5fg/file_stream"}
+{"time":"2025-09-15T01:14:34.595401516Z","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/emilio-/Reconocimiento MNIST/1beyn5fg/file_stream: {\"error\":\"run Reconocimiento MNIST/1beyn5fg not found while streaming file\"}"}
+{"time":"2025-09-15T01:17:01.15049581Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.025111124}],"total_operations":1}}
+{"time":"2025-09-15T01:17:01.264568714Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 1beyn5fg was previously created and deleted; try a new run id\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-09-15T01:17:01.278134962Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-09-15T01:17:01.286232863Z","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"run Reconocimiento MNIST/1beyn5fg not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-09-15T01:17:03.8244684Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 1beyn5fg was previously created and deleted; try a new run id\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-09-15T01:17:08.430853489Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 1beyn5fg was previously created and deleted; try a new run id\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-09-15T01:17:17.248034264Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 1beyn5fg was previously created and deleted; try a new run id\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}

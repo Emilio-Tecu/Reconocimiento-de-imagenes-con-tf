@@ -1,0 +1,17 @@
+2025-09-15 01:38:37,766 INFO    MainThread:13483 [wandb_init.py:setup_run_log_directory():686] Logging user logs to /workspace/wandb/run-20250915_013837-3t8theie/logs/debug.log
+2025-09-15 01:38:37,768 INFO    MainThread:13483 [wandb_init.py:setup_run_log_directory():687] Logging internal logs to /workspace/wandb/run-20250915_013837-3t8theie/logs/debug-internal.log
+2025-09-15 01:38:37,771 INFO    MainThread:13483 [wandb_init.py:init():813] calling init triggers
+2025-09-15 01:38:37,773 INFO    MainThread:13483 [wandb_init.py:init():818] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.005, 'epochs': 20, 'batch_size': 128, 'optimizer': 'adam', '_wandb': {}}
+2025-09-15 01:38:38,995 INFO    MainThread:13483 [wandb_init.py:init():854] starting backend
+2025-09-15 01:38:38,998 INFO    MainThread:13483 [wandb_init.py:init():857] sending inform_init request
+2025-09-15 01:38:39,108 INFO    MainThread:13483 [wandb_init.py:init():865] backend started and connected
+2025-09-15 01:38:39,848 INFO    MainThread:13483 [wandb_run.py:_label_probe_notebook():1330] probe notebook
+2025-09-15 01:38:39,894 INFO    MainThread:13483 [wandb_init.py:init():936] updated telemetry
+2025-09-15 01:38:39,903 INFO    MainThread:13483 [wandb_init.py:init():960] communicating run to backend with 90.0 second timeout
+2025-09-15 01:38:40,150 INFO    MainThread:13483 [wandb_init.py:init():1011] starting run threads in backend
+2025-09-15 01:38:41,171 INFO    MainThread:13483 [wandb_run.py:_console_start():2506] atexit reg
+2025-09-15 01:38:41,173 INFO    MainThread:13483 [wandb_run.py:_redirect():2354] redirect: wrap_raw
+2025-09-15 01:38:41,175 INFO    MainThread:13483 [wandb_run.py:_redirect():2423] Wrapping output streams.
+2025-09-15 01:38:41,179 INFO    MainThread:13483 [wandb_run.py:_redirect():2446] Redirects installed.
+2025-09-15 01:38:41,187 INFO    MainThread:13483 [wandb_init.py:init():1049] run started, returning control to user process
