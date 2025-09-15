@@ -1,0 +1,6 @@
+{"time":"2025-09-15T02:09:06.725458029Z","level":"INFO","msg":"stream: starting","core version":"0.21.4"}
+{"time":"2025-09-15T02:09:07.000283823Z","level":"INFO","msg":"stream: created new stream","id":"kwemu4gv"}
+{"time":"2025-09-15T02:09:07.000942264Z","level":"INFO","msg":"sender: started","stream_id":"kwemu4gv"}
+{"time":"2025-09-15T02:09:07.000846779Z","level":"INFO","msg":"writer: started","stream_id":"kwemu4gv"}
+{"time":"2025-09-15T02:09:07.000975119Z","level":"INFO","msg":"handler: started","stream_id":"kwemu4gv"}
+{"time":"2025-09-15T02:09:07.001631816Z","level":"INFO","msg":"stream: started","id":"kwemu4gv"}

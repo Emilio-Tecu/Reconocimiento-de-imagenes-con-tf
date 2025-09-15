@@ -4,3 +4,9 @@
 {"time":"2025-09-15T02:03:23.600790012Z","level":"INFO","msg":"handler: started","stream_id":"j8kkilz8"}
 {"time":"2025-09-15T02:03:23.600206245Z","level":"INFO","msg":"sender: started","stream_id":"j8kkilz8"}
 {"time":"2025-09-15T02:03:23.600132112Z","level":"INFO","msg":"writer: started","stream_id":"j8kkilz8"}
+{"time":"2025-09-15T02:09:05.876419039Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.099693685}],"total_operations":1}}
+{"time":"2025-09-15T02:09:06.401390199Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-15T02:09:06.655448405Z","level":"INFO","msg":"stream: closing","id":"j8kkilz8"}
+{"time":"2025-09-15T02:09:06.656360409Z","level":"INFO","msg":"handler: closed","stream_id":"j8kkilz8"}
+{"time":"2025-09-15T02:09:06.659482723Z","level":"INFO","msg":"sender: closed","stream_id":"j8kkilz8"}
+{"time":"2025-09-15T02:09:06.660024057Z","level":"INFO","msg":"stream: closed","id":"j8kkilz8"}
