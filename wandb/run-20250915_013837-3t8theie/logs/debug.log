@@ -15,3 +15,8 @@ config: {'learning_rate': 0.005, 'epochs': 20, 'batch_size': 128, 'optimizer': '
 2025-09-15 01:38:41,175 INFO    MainThread:13483 [wandb_run.py:_redirect():2423] Wrapping output streams.
 2025-09-15 01:38:41,179 INFO    MainThread:13483 [wandb_run.py:_redirect():2446] Redirects installed.
 2025-09-15 01:38:41,187 INFO    MainThread:13483 [wandb_init.py:init():1049] run started, returning control to user process
+2025-09-15 01:54:21,444 INFO    MainThread:13483 [wandb_run.py:_finish():2272] finishing run emilio-/Reconocimiento MNIST/3t8theie
+2025-09-15 01:54:21,459 INFO    MainThread:13483 [wandb_run.py:_atexit_cleanup():2471] got exitcode: 0
+2025-09-15 01:54:21,483 INFO    MainThread:13483 [wandb_run.py:_restore():2453] restore
+2025-09-15 01:54:21,495 INFO    MainThread:13483 [wandb_run.py:_restore():2459] restore done
+2025-09-15 01:54:22,746 INFO    MainThread:13483 [wandb_run.py:_footer_sync_info():3867] logging synced files
