@@ -4,3 +4,9 @@
 {"time":"2025-09-15T02:13:49.239990708Z","level":"INFO","msg":"sender: started","stream_id":"fjzs20et"}
 {"time":"2025-09-15T02:13:49.239838433Z","level":"INFO","msg":"writer: started","stream_id":"fjzs20et"}
 {"time":"2025-09-15T02:13:49.240405014Z","level":"INFO","msg":"handler: started","stream_id":"fjzs20et"}
+{"time":"2025-09-15T02:21:38.91672281Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.036847776}],"total_operations":1}}
+{"time":"2025-09-15T02:21:39.882445186Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-15T02:21:40.193677487Z","level":"INFO","msg":"stream: closing","id":"fjzs20et"}
+{"time":"2025-09-15T02:21:40.194433547Z","level":"INFO","msg":"handler: closed","stream_id":"fjzs20et"}
+{"time":"2025-09-15T02:21:40.199521645Z","level":"INFO","msg":"sender: closed","stream_id":"fjzs20et"}
+{"time":"2025-09-15T02:21:40.200455592Z","level":"INFO","msg":"stream: closed","id":"fjzs20et"}
