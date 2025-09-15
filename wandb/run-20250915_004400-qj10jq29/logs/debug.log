@@ -32,3 +32,13 @@ config: {'learning_rate': 0.005, 'epochs': 15, 'batch_size': 128, 'optimizer': '
 2025-09-15 00:46:33,559 INFO    MainThread:2182 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
 2025-09-15 00:46:33,561 INFO    MainThread:2182 [wandb_init.py:_pre_run_cell_hook():564] [no run ID] pausing backend
 2025-09-15 00:46:34,183 INFO    MainThread:2182 [wandb_init.py:_post_run_cell_hook():575] [no run ID] resuming backend
+2025-09-15 00:52:11,222 INFO    MainThread:2182 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-09-15 00:52:11,238 INFO    MainThread:2182 [wandb_init.py:_pre_run_cell_hook():564] [no run ID] pausing backend
+2025-09-15 00:52:11,740 INFO    MainThread:2182 [wandb_run.py:_finish():2272] finishing run emilio-/Reconocimiento MNIST/qj10jq29
+2025-09-15 00:52:11,767 INFO    MainThread:2182 [jupyter.py:save_history():480] not saving jupyter history
+2025-09-15 00:52:11,768 INFO    MainThread:2182 [jupyter.py:save_ipynb():404] not saving jupyter notebook
+2025-09-15 00:52:11,770 INFO    MainThread:2182 [wandb_init.py:_jupyter_teardown():590] cleaning up jupyter logic
+2025-09-15 00:52:11,775 INFO    MainThread:2182 [wandb_run.py:_atexit_cleanup():2471] got exitcode: 0
+2025-09-15 00:52:11,786 INFO    MainThread:2182 [wandb_run.py:_restore():2453] restore
+2025-09-15 00:52:11,797 INFO    MainThread:2182 [wandb_run.py:_restore():2459] restore done
+2025-09-15 00:52:12,676 INFO    MainThread:2182 [wandb_run.py:_footer_sync_info():3867] logging synced files
